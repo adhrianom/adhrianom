@@ -1,8 +1,8 @@
-## - Estudante de Ciência da computação
+## - Estudante de Sistemas de Informação
 
 
 - 🔭 Procurando oportunidades de estágio
-- 💼 Estudando na Universidade do Sul de Santa Catarina
+- 💼 Estudando na Universidade Federal de Santa Catarina
 - 📫 Email de contato: adhrianom@gmail.com
 
 <div style="display: inline_block"><br>
