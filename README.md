@@ -1,7 +1,6 @@
 ## - Adhriano Machado de Oliveira
 
 
-- 🔭 Procurando oportunidades de estágio
 - 💼 Graduando em Sistemas de Informação na Universidade Federal de Santa Catarina
 - 📫 Email de contato: adhrianom@gmail.com
 
